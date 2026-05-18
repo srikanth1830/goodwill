@@ -1,2 +1,3 @@
-# goodwill
-forpractice
+# maven-project
+
+Simple Maven Project
